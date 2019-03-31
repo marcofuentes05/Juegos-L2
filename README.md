@@ -10,5 +10,8 @@ La carpeta `Laboratorio 2` contiene el proyecto en Unity.
 La carpeta `L2-Ejecutable` contiene el ejecutable generado automaticamente.
 
 
+
+### Datos
 Marco Fuentes - 18188
+
 Juegos- Sección 10
